@@ -1,1 +1,0 @@
-web: gunicorn wallet_mail.wsgi
